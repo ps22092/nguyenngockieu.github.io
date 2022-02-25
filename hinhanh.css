@@ -1,0 +1,61 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#tinnoibat {
+    width: 650px;
+    height: 50px;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 150px;
+    border: 1px solid #ccc;
+    border-left: 5px solid rgb(231, 54, 113);
+}
+
+#tinnoibat h4 {
+    color:rgb(231, 54, 113);
+    margin-left: 20px;
+    padding: 15px 0;
+    font-size: 18px;
+}
+
+#tinnoibat a {
+    color: #ccc;
+    margin-left: 400px;
+    padding: 15px 0;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#tinnoibat a i {
+    margin-left: 5px;
+}
+
+#tinnoibat a:hover {
+    color: rgb(77, 105, 189);
+}
+
+#hinhanh {
+    margin-top: 50px;
+    margin-left: 150px;
+    width: 650px;
+}
+#hinhanh p {
+    text-align: center;
+    width: 250px;
+    margin-left: 140px;
+    margin-bottom: 20px;
+    font-size: 25px;
+    color: #222;
+    padding: 10px 0;
+    border: 1px solid #222;
+    border-radius: 15px;
+}
+
+#hinhanh img {
+    border-radius: 15px;
+    margin: 10px 10px ;
+}

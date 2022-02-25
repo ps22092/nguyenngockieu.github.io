@@ -1,0 +1,124 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tinnoibat {
+    width: 650px;
+    height: 50px;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 150px;
+    border: 1px solid #ccc;
+    border-left: 5px solid rgb(231, 54, 113);
+}
+
+.tinnoibat h4 {
+    color:rgb(231, 54, 113);
+    margin-left: 20px;
+    padding: 15px 0;
+    font-size: 18px;
+}
+
+.tinnoibat a {
+    color: #ccc;
+    padding: 15px 0;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 415px;
+}
+
+.tinnoibat a i {
+    margin-left: 5px;
+}
+
+.tinnoibat a:hover {
+    color: rgb(77, 105, 189);
+}
+
+#tintuc {
+    display: flex;
+    margin-top: 60px;
+    margin-left: 130px;
+}
+
+#tintuc>div {
+    width: 300px;
+    margin-left: 30px;
+}
+
+#tintuc .tkb h4 {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#tintuc .tkb p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: rgb(133, 133, 133);
+}
+
+#tintuc h4 a {
+    text-decoration: none;
+    color: #222;
+}
+#tintuc h4 a i {
+    margin-right: 10px;
+}
+
+.right > *{
+    margin-top: 30px;
+}
+
+#tintuc div a:hover {
+    color: rgb(77, 105, 189);
+}
+
+#sukien {
+    width: 650px;
+    height: 50px;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 150px;
+    border: 1px solid #ccc;
+    border-left: 5px solid #15a752;
+}
+
+#sukien h4 {
+    color: #15a752;
+    margin-left: 20px;
+    padding: 15px 0;
+    font-size: 18px;
+}
+
+#sukien a {
+    color: #ccc;
+    margin-left: 450px;
+    padding: 15px 0;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#sukien a i {
+    margin-left: 5px;
+}
+
+#sukien a:hover {
+    color: rgb(77, 105, 189);
+}
+
+.thuvien a {
+    margin-left: 440px;
+}
+
+.lichcongtac a {
+    margin-left: 395px;
+}
+.tracnghiem a {
+    margin-left: 410px;
+}
+.thoikhoabieu a {
+    margin-left: 385px;
+}

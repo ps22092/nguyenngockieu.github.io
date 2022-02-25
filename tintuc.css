@@ -1,0 +1,145 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#tinnoibat {
+    width: 650px;
+    height: 50px;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 150px;
+    border: 1px solid #ccc;
+    border-left: 5px solid rgb(231, 54, 113);
+}
+
+#tinnoibat h4 {
+    color:rgb(231, 54, 113);
+    margin-left: 20px;
+    padding: 15px 0;
+    font-size: 18px;
+}
+
+#tinnoibat a {
+    color: #ccc;
+    margin-left: 400px;
+    padding: 15px 0;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+#tinnoibat a i {
+    margin-left: 5px;
+}
+
+#tinnoibat a:hover {
+    color: rgb(77, 105, 189);
+}
+
+#hinhanh {
+    display: flex;
+    margin-left: 100px;
+    height: 220px;
+    margin-top: 40px;
+}
+
+#hinhanh div {
+    margin-right: 10px;
+    width: 240px;
+    -webkit-filter: drop-shadow(5px 5px 5px #ccc);
+    filter: drop-shadow(5px 5px 5px #ccc);
+    border-radius: 10px;
+    background-color: whitesmoke;
+    cursor: pointer;
+}
+
+#hinhanh .hinh1 {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("http://thptlythuongkietlagi.edu.vn/public/upload/2021/12/17/8f42750fd16c4f5274f5f12f20a207ac.jpg");
+    background-size: 100% 100%;
+}
+
+#hinhanh .hinh2 {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("http://thptlythuongkietlagi.edu.vn/public/upload/2021/11/22/077c065e0f1d499a2a9b530e7a4d1cfc.jpg");
+    background-size: 100% 100%;
+}
+
+#hinhanh .hinh3 {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("http://thptlythuongkietlagi.edu.vn/public/upload/2021/03/22/a0befd00a52b5e271a3fe469570f04bf.jpg");
+    background-size: 100% 100%;
+}
+
+#hinhanh div h5 {
+    color: #fff;
+    font-size: 17px;
+    border: 1px solid #fff;
+    width: 160px;
+    text-align: center;
+    margin-top: 130px;
+    margin-left: 40px;
+    font-weight: 100;
+}
+#hinhanh div h5:hover {
+    background-color: rgb(36, 68, 167);
+}
+#thanhlap {
+    width: 650px;
+    height: 50px;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 150px;
+    border: 1px solid #ccc;
+    border-left: 5px solid rgb(231, 54, 113);
+}
+
+#thanhlap h4 {
+    color:rgb(231, 54, 113);
+    margin-left: 20px;
+    padding: 15px 0;
+    font-size: 18px;
+}
+#thanhlap a {
+    color: #ccc;
+    padding: 15px 0;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 310px;
+}
+
+#thanhlap a i {
+    margin-left: 5px;
+}
+
+#thanhlap a:hover {
+    color: rgb(77, 105, 189);
+}
+
+#truonghoc {
+    margin-top: 50px;
+}
+
+#truonghoc > div {
+    height: 90px;
+    margin-left: 150px;
+    margin-top: 20px;
+
+}
+
+#truonghoc a {
+    margin-left: 15px;
+    text-decoration: none;
+    color: #222;
+    font-weight: 700;
+}
+
+#truonghoc a:hover {
+    color: rgb(77, 105, 189);
+}
+#truonghoc p {
+    color: rgb(107, 107, 107);
+    margin-left: 115px;
+    font-size: 13px;
+    width: 150px;
+    margin-top: 10px;
+}

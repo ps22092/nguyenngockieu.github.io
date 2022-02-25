@@ -1,0 +1,47 @@
+.sanpham {
+    width: 35%;
+    float: left;
+    margin-left: 80px;
+}
+.prod {
+    position: relative;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin: 20px;
+    box-shadow: 0px 0px 15px 5px #ccc;
+
+}
+.prod .image {
+    max-width: 90%;
+    height: 220px;
+    margin-bottom: 10px;
+}
+.prod>.name { 
+    color:red;
+    font-variant: small-caps; 
+    text-align: center;
+    margin-top: 7px;
+    font-size: 20px;
+}
+.prod >.price {
+    position: absolute;
+    left:5px;
+    bottom: 5px;
+    font-family: Impact;
+    font-size: 25px;
+    color: red;
+
+}
+.prod>.icons{
+    position: absolute; 
+    right:5px; 
+    bottom: 5px; 
+    width: 25px;
+    margin-right: 10px;
+ }
+ .prod>.new-icon{
+    position: absolute; 
+    right:5px; 
+    top:5px;
+}
+
